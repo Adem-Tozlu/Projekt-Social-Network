@@ -92,7 +92,7 @@ function Header() {
                     <div className="container">
                         <div className="row">
                             <div className="col-md-6">
-                                <img src="../public/images/explore.jpg" className='img-fluid mb-3 rounded-circle' alt="" />
+                                <img src="/images/explore.jpg" className='img-fluid mb-3 rounded-circle' alt="" />
                             </div>
                             <div className="col-md-6">
                                 <h3>Explore New Places</h3>
@@ -149,7 +149,7 @@ function Header() {
                     <div className="container">
                         <div className="row">
                             <div className="col-md-6 order-2">
-                                <img src="../public/images/enjoy.jpg" className='img-fluid mb-3 rounded-circle' alt="" />
+                                <img src="/images/enjoy.jpg" className='img-fluid mb-3 rounded-circle' alt="" />
                             </div>
                             <div className="col-md-6 order-1">
                                 <h3>Find New Friends</h3>
