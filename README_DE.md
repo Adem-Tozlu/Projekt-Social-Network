@@ -1,22 +1,20 @@
-# Project – Social Network 
-This is a small exercise with Bootstrap 5. Through this small project, I have strengthened my knowledge in Bootstrap 5.
+# Project – Social Network
+Dies ist eine kleine Übung mit Bootstrap 5.Durch dieses kleine Projekt habe ich mein wissen in Bootstrap 5 verstärkt.
+
+## Inhaltsverzeichnis
 
 
-## Table of contents
-
-- [Overview](#overview)
+- [Übersicht](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Mein Prozess](#mein-prozess)
+  - [Erstellt mit](#erstellt-mit)
   - [Frameworks](#frameworks)
   - [Tools](#tools)
-  - [What I learned](#what-i-learned)
+  - [Was ich gelernt habe](#was-ich-gelernt-habe)
 - [Author](#author)
 
-
-
-## Overview
+## Überblick
 
 ### Screenshot
 
@@ -27,9 +25,9 @@ This is a small exercise with Bootstrap 5. Through this small project, I have st
 - Solution URL: [Github Solutions](https://github.com/Adem-Tozlu/Projekt-Social-Network)
 - Live Site URL: [Website Shop](https://projekt-social-network.vercel.app)
 
-## My process
+## Mein Prozess
 
-### Built with
+### Erstellt mit
 
 - Semantic HTML5 markup
 - SASS/SCSS
@@ -37,14 +35,17 @@ This is a small exercise with Bootstrap 5. Through this small project, I have st
 - Bootstrap
 
 ## Frameworks
- - React
+
+- React
 
 ## Tools
- - Vite
 
-### What I learned
+- Vite
 
-By developing this small project, I expanded my knowledge and skills in Bootstrap.
+### Was ich gelernt habe
+
+Durch die Entwicklung dieses kleines Projekt habe ich meine Kenntnisse und Fähigkeiten im Bootstrap erweitert.
+
 
 ## Author
 
