@@ -20,7 +20,7 @@ This is a small exercise with Bootstrap 5. Through this small project, I have st
 
 ### Screenshot
 
-![Screenshot](public/screenshot.png)
+![Screenshot](public/images/screenshot.png)
 
 ### Links
 

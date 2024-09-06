@@ -18,7 +18,7 @@ Dies ist eine kleine Übung mit Bootstrap 5.Durch dieses kleine Projekt habe ich
 
 ### Screenshot
 
-![Screenshot](public/screenshot.png)
+![Screenshot](public/images/screenshot.png)
 
 ### Links
 
