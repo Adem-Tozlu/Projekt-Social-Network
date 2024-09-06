@@ -2,6 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
+    <header>
     <nav className="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
       <div className="container">
         <a href="#" className="navbar-brand">Social Network</a>
@@ -27,7 +28,7 @@ const Navbar = () => {
           </ul>
         </div>
       </div>
-    </nav>
+    </nav></header>
   );
 };
 
